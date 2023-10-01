@@ -1,6 +1,6 @@
 ![Java version](https://img.shields.io/badge/Java-8-red)
 
-# Java Spring Boot +  ButterCMS Starter Project
+# My Java Spring Boot +  ButterCMS Starter Project
 
 This Java + Spring Boot starter project fully integrates with dynamic sample 
 content from your ButterCMS account, including main menu, pages, blog posts, 
